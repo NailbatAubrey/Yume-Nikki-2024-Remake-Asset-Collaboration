@@ -28,10 +28,17 @@ row 6    B6
 transparency. I know this seems redundant to say, but a huge portion of the 
 sprites in the original game do not use alpha to denote transparency. 
 
-	To give the new sprites, I'll setup a github repo, just DM me a link to your 
-github account on discord and I'll send you an invite to the github repo so you can 
-commit to your own branch. My discord is nailbataubrey. Just explain that you're DMing
-me about spritesheets so I know you're not a scammer xD
+	I'm using github for this project because github makes keeping track
+of contriutors extremely easy, so I can credit everyone who helps work on
+the project.
+
+	To add spritesheets, click on the "add file" button next to the giant 
+green "<>code" button. It will prompt you to make a fork, which will let you edit 
+everything in the file. Then when you're done with it, just DM me on discord.
+Its super easy to commit with the desktop client, I recommend downloading it 
+and learnign how to make branches and commits. The program has a built in 
+tutorial. My discord is nailbataubrey. Just explain that you're DMing me about 
+spritesheets so I know you're not a scammer xD
 
 	I want to thank anyone making sprites for this project so much! If you don't 
 want to worry about organizing the spritesheets, just upload your work in the related 
