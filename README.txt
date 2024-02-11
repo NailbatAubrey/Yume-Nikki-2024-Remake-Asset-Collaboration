@@ -9,20 +9,17 @@ Each spritesheet should be organized likeso:
 original 4 organized in the first 4 columns in the top 3 rows, in these directions:
 south, north, east, west. 
 
-	The new walkcycles should be organized in the first 4 columns in rows 4-6 likeso: 
+	The new walkcycles should be organized in the next 4 columns likeso: 
 southWest, northWest, northEast, southEast.
 
-	any extra animations in the effect should be in columns 5+. each animation can be 
-given its own column, if it has more than 6 frames it can go into the next column as well.
+	any extra animations in the effect should be in columns 9+. each animation can be 
+given its own column, if it has more than 3 frames it can go into the next column as well.
 
-for example, say we have animation A with 5 frames, and animation B with 7 frames
+for example, say we have animation A with 3 frames, and animation B with 5 frames
       C1 C2 C3
 row 1 A1 B1 B7
 row 2 A2 B2
 row 3 A3 B3
-row 4 A4 B4
-row 5 A5 B5
-row 6    B6
 
 	anything that should show up as transparent needs to have complete alpha 
 transparency. I know this seems redundant to say, but a huge portion of the 
@@ -36,7 +33,7 @@ the project.
 green "<>code" button. It will prompt you to make a fork, which will let you edit 
 everything in the file. Then when you're done with it, just DM me on discord.
 Its super easy to commit with the desktop client, I recommend downloading it 
-and learnign how to make branches and commits. The program has a built in 
+and learning how to make branches and commits. The program has a built in 
 tutorial. My discord is nailbataubrey. Just explain that you're DMing me about 
 spritesheets so I know you're not a scammer xD
 
