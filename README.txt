@@ -3,23 +3,7 @@ Madotsuki Spritesheet Organization Style:
 	Each sprite needs to be 24x32 pixels. If each effect can be separated into 
 it's own sheet, that would be awesome. 
 
-Each spritesheet should be organized likeso:
-
-	each walk cycle should have 3 frames just like the original game, with the 
-original 4 organized in the first 4 columns in the top 3 rows, in these directions:
-south, north, east, west. 
-
-	The new walkcycles should be organized in the next 4 columns likeso: 
-southWest, northWest, northEast, southEast.
-
-	any extra animations in the effect should be in columns 9+. each animation can be 
-given its own column, if it has more than 3 frames it can go into the next column as well.
-
-for example, say we have animation A with 3 frames, and animation B with 5 frames
-      C1 C2 C3
-row 1 A1 B1 B7
-row 2 A2 B2
-row 3 A3 B3
+See no_effect.png in .resources for an example of how walkcycle sprites should be laid out.
 
 	anything that should show up as transparent needs to have complete alpha 
 transparency. I know this seems redundant to say, but a huge portion of the 
